@@ -18,9 +18,17 @@ I'm a passionate Android developer with 3+ years of experience in crafting innov
 - Kotlin Multiplatform
 - CI/CD
 
+## ⚡ GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zouhir96&show_icons=true&count_private=true&hide=issues,prs&theme=radical&include_all_commits=true)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zouhir96&layout=compact&theme=radical)
+
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rajdaouizouhir/)
+- LinkedIn: [Zouhir RAJDAOUI](https://www.linkedin.com/in/rajdaouizouhir/)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
