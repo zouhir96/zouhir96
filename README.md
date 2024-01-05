@@ -4,10 +4,20 @@ I'm a passionate Android developer with 3+ years of experience in crafting innov
 
 ## 🔧 Technologies & Tools
 
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,react,next,androidstudio,figma,vscode,git,github,gitlab,postman&theme=dark" />
+  </a>
+ 
+</div>
+
+
 - Android Studio
 - Kotlin, Coroutines
 - Java, ExJava
 - XML, Jetpack compose, Material
+- Javascript, ReactJs, NextJs
+- UI/UX, FIGMA
 - Git: Github, Gitlab
 - SQLite, Realm, SqlDelight
 - RESTful APIs: Reftrofit, Ktor
